@@ -1,0 +1,11 @@
+C:\WindowsForms\Curso\WinFormsExercicio01POO\WinFormsExercicio01POO\bin\Debug\WinFormsExercicio01POO.exe.config
+C:\WindowsForms\Curso\WinFormsExercicio01POO\WinFormsExercicio01POO\bin\Debug\WinFormsExercicio01POO.exe
+C:\WindowsForms\Curso\WinFormsExercicio01POO\WinFormsExercicio01POO\bin\Debug\WinFormsExercicio01POO.pdb
+C:\WindowsForms\Curso\WinFormsExercicio01POO\WinFormsExercicio01POO\obj\Debug\WinFormsExercicio01POO.csproj.AssemblyReference.cache
+C:\WindowsForms\Curso\WinFormsExercicio01POO\WinFormsExercicio01POO\obj\Debug\WinFormsExercicio01POO.csproj.SuggestedBindingRedirects.cache
+C:\WindowsForms\Curso\WinFormsExercicio01POO\WinFormsExercicio01POO\obj\Debug\WinFormsExercicio01POO.Form1.resources
+C:\WindowsForms\Curso\WinFormsExercicio01POO\WinFormsExercicio01POO\obj\Debug\WinFormsExercicio01POO.Properties.Resources.resources
+C:\WindowsForms\Curso\WinFormsExercicio01POO\WinFormsExercicio01POO\obj\Debug\WinFormsExercicio01POO.csproj.GenerateResource.cache
+C:\WindowsForms\Curso\WinFormsExercicio01POO\WinFormsExercicio01POO\obj\Debug\WinFormsExercicio01POO.csproj.CoreCompileInputs.cache
+C:\WindowsForms\Curso\WinFormsExercicio01POO\WinFormsExercicio01POO\obj\Debug\WinFormsExercicio01POO.exe
+C:\WindowsForms\Curso\WinFormsExercicio01POO\WinFormsExercicio01POO\obj\Debug\WinFormsExercicio01POO.pdb
